@@ -1,0 +1,20 @@
+{
+  "version": "2.0.0",
+  "author": {
+    "name": "Arisman Webs"
+  },
+  "dependencies": {
+    "aw_extern_functions": "^2.0.0",
+    "aw_polymer_3": "^1.1.5"
+  },
+  "description": "Botón de menu de Arisman Webs en Polymer 3",
+  "keywords": [
+    "Arisman Webs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manujoz/aw_menu-button.git"
+  },
+  "license": "ISC",
+  "name": "aw_menu_button"
+}
